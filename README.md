@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a comprehensive Terraform setup for deploying an Azure Landing Zone (ALZ) for enterprise-grade environments. Designed with modularity and scalability in mind, this builds upon the [Azure Verified Modules](https://aka.ms/avm) project but provides some additional configuration and optional resource deployment.  
+This repository contains a comprehensive Terraform setup for deploying an Azure Landing Zone (ALZ) for enterprise-grade environments. Designed with modularity and scalability in mind, this builds upon the [Azure Verified Modules](https://aka.ms/avm) project but provides some flexability in the deployment based on a recent project I completed.
 
 ## Key Features
 
