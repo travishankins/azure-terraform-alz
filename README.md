@@ -1,6 +1,6 @@
 # Azure Landing Zone on Terraform ☁️🏗️
 
-**Infrastructure‑as‑Code** blueprint that deploys Microsoft's **Azure Landing Zone (ALZ)** architecture using open‑source **Terraform** modules.
+**Infrastructure‑as‑Code** blueprint that deploys Microsoft's **Azure Landing Zone (ALZ)** architecture using **Terraform** modules.
 
 ## 📋 Table of Contents
 
