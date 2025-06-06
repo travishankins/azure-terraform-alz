@@ -11,10 +11,9 @@
 * [Repository Structure](#repository-structure)
 * [Modules](#modules)
 * [Customization](#customization)
-* [Contributing](#contributing)
 * [Roadmap](#roadmap)
 * [Resources](#resources)
-* [License](#license)
+
 
 ## Why this repo?
 
